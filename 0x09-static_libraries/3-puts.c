@@ -8,6 +8,6 @@ void _puts(char *str)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	_putchar("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
